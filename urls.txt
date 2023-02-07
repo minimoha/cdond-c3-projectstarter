@@ -1,0 +1,10 @@
+URL01 - https://github.com/minimoha/cdond-c3-projectstarter
+
+Provide the public URL for your S3 Bucket (aka, your front-end). [URL02]
+
+Provide a screenshot showing the evidence of deployed and functioning front-end application in CloudFront (aka, your production front-end). [URL03_SCREENSHOT]
+
+
+Provide a screenshot of a graph of your EC2 instance including available memory, available disk space, and CPU usage. [SCREENSHOT11]
+
+Provide a screenshot of your Prometheus Server. [URL05_SCREENSHOT]
